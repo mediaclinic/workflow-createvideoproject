@@ -4,6 +4,7 @@ A workflow for MacOS Finder to create a basic folder structure for video editing
 
 ## Folder Structure
 
+```
 { Project Name Folder }
 	|
 	+-- 01_Footage
@@ -34,3 +35,4 @@ A workflow for MacOS Finder to create a basic folder structure for video editing
 	+-- 05_Exports
 		+-- Drafts
 		+-- Online
+```
