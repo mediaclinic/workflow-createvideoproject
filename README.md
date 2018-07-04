@@ -53,4 +53,8 @@ Now, You have all the basic folder structure created for your videoproject.
 
 Happy editing!
 
-- Jani Kiviranta / Hoop
+– – –
+
+**Jani Kiviranta**
+
+[Instagram](https://www.instagram.com/janikiviranta/) | [LinkedIn](https://www.linkedin.com/in/janikiviranta/fi/) | [Twitter](https://twitter.com/janikiviranta)
